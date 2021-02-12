@@ -1,0 +1,6 @@
+framework module Pods_EspIosConnect {
+  umbrella header "Pods-EspIosConnect-umbrella.h"
+
+  export *
+  module * { export * }
+}
