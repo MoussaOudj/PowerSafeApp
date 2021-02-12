@@ -6,6 +6,6 @@ Application iOS pour ce connecter au PoC PowerSafe
 * Contient une séquence de test
 
 ## Requête utilisé pour communiquer avec le serveur à l'aide du Pod **ALAMOFIRE**
-GET /getAlarm => Retourne true si l'alarme est activer false sinon
-GET /desactivateAlarm => parametre : password => desactive l'alarme avec le mot de passe passer en parametre
-GET /new => parametre : password => change le mots de passe en cours si l'alarme est activer
+- GET /getAlarm => Retourne true si l'alarme est activer false sinon
+- GET /desactivateAlarm => parametre : password => desactive l'alarme avec le mot de passe passer en parametre
+- GET /new => parametre : password => change le mots de passe en cours si l'alarme est activer
