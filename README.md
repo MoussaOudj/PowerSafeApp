@@ -6,8 +6,8 @@ Application iOS pour ce connecter au PoC PowerSafe
 * Contient une séquence de test
 
 
-![Visu home](Visu 00.png)
-![Visu password](Visu 01.png)
+![Visu home](Visu%00.png)
+![Visu password](Visu%01.png)
 
 ## Requête utilisé pour communiquer avec le serveur à l'aide du Pod **ALAMOFIRE**
 - GET /getAlarm => Retourne true si l'alarme est activer false sinon
