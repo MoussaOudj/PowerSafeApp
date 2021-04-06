@@ -7,7 +7,7 @@
 
 import UIKit
 import Alamofire
-
+//MASTER +1 PR REBASE
 class HomeViewController: UIViewController, StreamDelegate {
     
     @IBOutlet weak var alarmImageView: UIImageView!
