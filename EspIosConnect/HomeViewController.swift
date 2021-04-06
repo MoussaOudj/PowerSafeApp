@@ -25,6 +25,7 @@ class HomeViewController: UIViewController, StreamDelegate {
     }
     
     func requesterLed() {
+        //test
         AF.request("http://10.33.1.105/led?state=\(ledState)").responseString { response in
             print(response)
         }
